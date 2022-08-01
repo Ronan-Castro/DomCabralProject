@@ -2,6 +2,12 @@
 
 Projeto sobre os dados do MEC sobre o aumento de cursos de pós graduação.
 
+<h2>Problemática:
+<br>
+Descobrir se o aumento de oferta em cursos de pós-graduação é um fator impactante nos produtos de pós-graduação oferecidos pela organização.
+</h2>
+
+
 <h4> A hipótese de alta oferta de cursos pesenciais e on-line foi confirmada/validada devido ao aumento na disponibilidade tanto de cursos quanto de vagas de 2021 para 2022, em pós-graduações, conforme gráfico "a" e "b", e em MBA, conforme os gráficos "c" e "d". 
 <br>
 Houve crescimento em todos os estados com destaque para o Paraná no aumento de vagas para MBA, Amazonas e Piauí nas vagas de pós-graduação, Piauí nos cursos de pós-graduação, além de Alagoas, Maranhão, DF e Goiás para aumento em todos os gráficos.</h4>
