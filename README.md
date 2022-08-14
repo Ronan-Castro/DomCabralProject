@@ -4,7 +4,7 @@ Projeto sobre os dados do MEC sobre o aumento de cursos de pós graduação.
 
 <h2>Problemática:
 <br>
-Descobrir se o aumento de oferta em cursos de pós-graduação é um fator impactante nos produtos de pós-graduação oferecidos pela organização.
+Confirmar ou não a hipótese de que o aumento de oferta em cursos de pós-graduação é um fator impactante nos produtos de pós-graduação oferecidos pela organização Dom Cabral.
 </h2>
 
 
