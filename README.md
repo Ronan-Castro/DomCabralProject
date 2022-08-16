@@ -8,6 +8,8 @@ Confirmar ou não a hipótese de que o aumento de oferta em cursos de pós-gradu
 </h2>
 
 
+<h3><b>Resumo dos resulta</b></h3>
+
 <h4> A hipótese de alta oferta de cursos pesenciais e on-line foi confirmada/validada devido ao aumento na disponibilidade tanto de cursos quanto de vagas de 2021 para 2022, em pós-graduações, conforme gráfico "a" e "b", e em MBA, conforme os gráficos "c" e "d". 
 <br>
 Houve crescimento em todos os estados com destaque para o Paraná no aumento de vagas para MBA, Amazonas e Piauí nas vagas de pós-graduação, Piauí nos cursos de pós-graduação, além de Alagoas, Maranhão, DF e Goiás para aumento em todos os gráficos.</h4>
