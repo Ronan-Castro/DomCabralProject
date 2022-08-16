@@ -1,4 +1,4 @@
-# DomCabralProject
+# MEC_DATA_ESPECIALIZATION
 
 Projeto sobre os dados do MEC sobre o aumento de cursos de pós graduação.
 
